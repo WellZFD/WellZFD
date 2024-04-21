@@ -6,5 +6,6 @@
   <li>🌆Tenho 24 Anos.</li>
   <li>🏡Nascido e Criado no RJ.</li>
 </ul>
+<img src="https://i.pinimg.com/originals/3f/9a/76/3f9a76e8f304e41d93a8bf6daefc5163.gif" alt="BladeRunner2049">
 
 
