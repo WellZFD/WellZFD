@@ -7,4 +7,4 @@
   <li>🏡Nascido e Criado no RJ.</li>
 </ul></p>
 <p><img src="https://i.pinimg.com/originals/3f/9a/76/3f9a76e8f304e41d93a8bf6daefc5163.gif" alt="BladeRunner2049"></p>
-<p><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="40px" alt="HTML5"><img align="center" src="https://static-00.iconduck.com/assets.00/file-type-css-icon-1806x2048-r5fwjl3p.png" width="40px" alt="CSS"></p>
+<p><img align="center" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" width="40px" alt="HTML5"><img align="center" src="https://static-00.iconduck.com/assets.00/file-type-css-icon-1806x2048-r5fwjl3p.png" width="40px" alt="CSS"></p>
